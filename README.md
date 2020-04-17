@@ -1,10 +1,10 @@
 # AURA-backlight
 
-This script makes use of [wrobert's rogauracore](https://github.com/wroberts/rogauracore "roagauracore - wroberts) to control the backlighting of Asus ROG Laptops running linux on them.
+This script makes use of [wrobert's rogauracore](https://github.com/wroberts/rogauracore "roagauracore - wroberts") to control the backlighting of Asus ROG Laptops running linux on them.
 This is just a simple script to view multiple options and select the arguments via the terminal.
 
 ## Setup
-Once [rogauracore](https://github.com/wroberts/rogauracore "roagauracore - wroberts) is set up, follow the steps.
+Once [rogauracore](https://github.com/wroberts/rogauracore "roagauracore - wroberts") is set up, follow the steps.
 
 1. Make a bin folder in the home directory
 2. Copy and paste the _rogaura.sh_ file into the bin folder
