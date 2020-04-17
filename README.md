@@ -15,4 +15,4 @@ Once [rogauracore](https://github.com/wroberts/rogauracore "roagauracore - wrobe
 	```export PATH="$PATH:~/bin"```
 6. Now open a terminal and run
 	```source .bashrc```
-7. In the terminal type the name of your file that you have in your bin directory to get started!
+7. In the terminal type the name of your file that you have in your bin directory to get started.
